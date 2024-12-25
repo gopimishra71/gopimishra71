@@ -51,11 +51,9 @@
 
 # 📊 GitHub Stats:
 
-![gopimishra71's Stats](https://github-readme-stats.vercel.app/api?username=gopimishra71&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-
-![gopimishra71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopimishra71&theme=algolia&hide_border=false)
-
-![gopimishra71's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopimishra71&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gopimishra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gopimishra71&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopimishra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
