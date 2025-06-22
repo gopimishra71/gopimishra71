@@ -19,7 +19,7 @@
 
 > - 🔭 I’m currently working on [Xeno Music Player](https://tinyurl.com/xeno-music)
 
-> - 🌱 I’m currently learning **MERN, Web3**
+> - 🌱 I’m currently learning **MERN, Web3 & Cybersecurity**
 
 > - 👨‍💻 All of my projects are available at [My Portfolio Website](https://tinyurl.com/gopimishra)
 
