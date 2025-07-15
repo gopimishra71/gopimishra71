@@ -12,7 +12,8 @@
 
 <div align="center">
     <h3 align="center">Profile Visit Count</h3><br>
-  <img src="https://profile-counter.glitch.me/gopimishra71/count.svg?"  />
+    <img src="https://komarev.com/ghpvc/?username=gopimishra71&color=blue&style=for-the-badge&abbreviated=true"  />
+<!-- <img src="https://profile-counter.glitch.me/gopimishra71/count.svg?"  /> -->
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></p>
@@ -49,17 +50,48 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gopimishra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gopimishra71&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopimishra71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gopimishra71&theme=onedark&row=1&column=6&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopimishra71&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+# 🎯 Summary Cards
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gopimishra71&theme=2077" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gopimishra71&theme=2077" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopimishra71&theme=2077" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopimishra71&theme=2077" height="150" />
+</div>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></p>
+
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=gopimishra71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
